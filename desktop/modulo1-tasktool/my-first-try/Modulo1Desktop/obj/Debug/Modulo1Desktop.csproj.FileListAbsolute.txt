@@ -1,0 +1,14 @@
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\bin\Debug\Modulo1Desktop.exe.config
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\bin\Debug\Modulo1Desktop.exe
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\bin\Debug\Modulo1Desktop.pdb
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.csproj.AssemblyReference.cache
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.Tasktool.resources
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.CadastroTasktool.resources
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.PrincipalTasktool.resources
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.CoresTakstool.resources
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.Properties.Resources.resources
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.csproj.GenerateResource.cache
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.csproj.CoreCompileInputs.cache
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.exe
+C:\Users\#09-2\Documents\siedler\estudos-de-csharp\visualstudio\Modulo1Desktop\obj\Debug\Modulo1Desktop.pdb
